@@ -1,0 +1,10 @@
+{
+  "name": "Smart Classroom",
+  "short_name": "Classroom",
+  "description": "Smart Classroom IoT dashboard",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080d18",
+  "theme_color": "#080d18",
+  "icons": []
+}
